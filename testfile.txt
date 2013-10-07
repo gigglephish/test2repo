@@ -1,1 +1,3 @@
-test file
+a:  The first line of the testfile
+b:  The second line of the test file
+c:  The third line of the testfile
